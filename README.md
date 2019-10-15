@@ -11,4 +11,3 @@ import kotlin.experimental.and`
 > The code does not differ much from the languages
 
 Cryptografy is I a simple way, encryption is a set of techniques designed to protect information so that only sender and receiver can understand it.
-
