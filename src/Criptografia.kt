@@ -57,9 +57,9 @@ object Crypto {
 
 internal class AdvancedEncryptionStandard(private val key: ByteArray) {
     /**
-     * Encrypts the given plain text
+     * Encrypts que explicam o texto
      *
-     * @param plainText The plain text to encrypt
+     * @param plainText 
      */
     @Throws(Exception::class)
     fun encrypt(plainText: ByteArray): ByteArray {
